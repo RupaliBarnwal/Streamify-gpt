@@ -1,11 +1,14 @@
+import Body from "./components/Body";
 
-import './App.css';
+
 
 function App() {
   return (
-    <div className="text-xl font-bold">
-      Hi You are watching Streamify😍
+   
+    <div>
+      <Body/>
     </div>
+
   );
 }
 
