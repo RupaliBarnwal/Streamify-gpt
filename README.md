@@ -1,5 +1,17 @@
 created React app
 configured Tailwind CSS
+Header
+Routing of App
+Login Form
+Sign Up Form
+Form Validation
+useRef Hook
+Firebase Setup
+Deploying our app to production
+Create Signup user Account
+Implement sign in user Api
+Created redux store with user Slice
+
 
 
 
