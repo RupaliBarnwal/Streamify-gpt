@@ -11,10 +11,20 @@ Deploying our app to production
 Create Signup user Account
 Implement sign in user Api
 Created redux store with user Slice
-
-
-
-
+Implemented Sign Out
+Update profile api
+BugFix: Sign up user displayName and Profile picture update
+BugFix: If the user is not logged in , redirect to login page not /browse page and vice-versa
+unsubscribed to the onAuthStatechange callback
+Get Data from TMDB now playing movies list API
+Custom Hook for Now Playing Movies
+Create movieSlice
+Update Store with movies Data
+Planning for MainContauiner & secondary container
+Fetch Data for Trailer Video
+Update Store with Trailer Video Data
+Embedded the Yotube video and make it autoplay and mute
+Tailwind Classes to make Main Container look awesome
 
 
 # Features
